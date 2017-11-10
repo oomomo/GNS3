@@ -1,0 +1,8 @@
+Hypervisor TCP control server started (IP 127.0.0.1 port 50109).
+UDP tunnel connecting from local port 10005 to IPv4 addresss 127.0.0.1 on port 10004
+UDP tunnel connecting from local port 10018 to IPv4 addresss 127.0.0.1 on port 10019
+Destination NIO listener thread for VPCS-a63b75e2-dea8-4511-a5ad-033d9db1bcb8 has started
+Source NIO listener thread for VPCS-a63b75e2-dea8-4511-a5ad-033d9db1bcb8 has started
+Hypervisor: closing control sockets.
+Hypervisor: closing remote client connections.
+Hypervisor: stopped.
